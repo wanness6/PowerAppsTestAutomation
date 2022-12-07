@@ -11,7 +11,7 @@ resources:
       name: wanness6/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: <github.com_wanness6>
+      endpoint: github.com_wanness6
 
 parameters:
  - name: image
